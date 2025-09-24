@@ -1,6 +1,6 @@
 # Analyzing Sorting Algorithms
 
-C++ Program to run and process relevant data while testing the algorithms, and Python for graphing the data. The data is generated in `data/data.csv`.
+C++ Program to run and process relevant data while testing the algorithms, and Python for graphing the data. The data is generated in `data/Benchmarks_Sorts.csv`.
 
 # Usage
 Compile and run the C++ program using the C++17 (or later) standard.
